@@ -14,8 +14,6 @@
 
 ###
 
-<h2>👋 Hi, I'm a MERN Stack Web Developer</h1>
-
 <p>
   I specialize in <strong>React.js</strong> and front-end development, creating dynamic and user-friendly web applications using modern technologies like <strong>React, Tailwind CSS, and Firebase authentication</strong>.
 </p>
@@ -36,7 +34,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning node js, express js and mongoDB<br>🎯 Goals: become a MERN Stack Web developer <br>🎲 Fun fact: My code works perfectly... until I run it. 😅</p>
+<p align="left">✨ Creating bugs since 2024 <br>🎯 Goals: To become a <strong>highly skilled full-stack developer</strong> and build impactful web solutions! <br>🎲 Fun fact: My code works perfectly... until I run it. 😅</p>
 
 ###
 
