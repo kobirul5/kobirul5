@@ -2,19 +2,37 @@
   <img height="400" src="https://i.ibb.co.com/PmY37BH/4512002.jpg"  />
 </div>
 
-<h1 align="left">Kobirul Islam</h1>
+<h1 align="left">Md. Kobirul Islam</h1>
 
 ###
 
-<h2 align="left">🌟 Front-End Web Developer</h2>
+<h2 align="left">🌟 MERN Stack Web Developer</h2>
 
 ###
 
-<h3 align="left">About Me</h3>
+<h2 align="center">About Me</h3>
 
 ###
 
-<p align="left">Front-End Web Developer passionate about crafting responsive, user-friendly interfaces with modern web technologies. Skilled in HTML, CSS, JavaScript, and frameworks like React. and I have a basic understanding of MongoDB, Express, and Node.js . Always learning and exploring new ways to create seamless digital experiences.</p>
+<h2>👋 Hi, I'm a MERN Stack Web Developer</h1>
+
+<p>
+  I specialize in <strong>React.js</strong> and front-end development, creating dynamic and user-friendly web applications using modern technologies like <strong>React, Tailwind CSS, and Firebase authentication</strong>.
+</p>
+
+<h2>🔥 What I Do:</h2>
+<ul>
+  <li>⚡ <strong>Front-end Development:</strong> Building responsive and interactive UIs with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.</li>
+  <li>🛠️ <strong>Back-end (Learning & Improving):</strong> Working with <strong>Node.js, Express, and MongoDB</strong> to develop scalable applications.</li>
+  <li>🔒 <strong>Authentication & Security:</strong> Implementing <strong>JWT authentication</strong> and Firebase authentication for secure user access.</li>
+  <li>📡 <strong>API & Data Management:</strong> Managing data efficiently with <strong>TanStack Query</strong> and MongoDB.</li>
+</ul>
+
+<h2>🌱 Currently Exploring:</h2>
+<ul>
+  <li>Advanced <strong>backend development</strong> to strengthen my full-stack skills.</li>
+  <li>Performance optimization and improved database management.</li>
+</ul>
 
 ###
 
