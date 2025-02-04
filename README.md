@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="Center">I code with</h2>
+<h1 align="Center">I code with</h2>
 
 ###
 
@@ -58,10 +58,9 @@
 </div>
 
 ###
-###
+
 <div align="center">
  <h1>📊 My Stats</h1>
-###
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobirul5&theme=radical" alt="GitHub Contributions" />
   <img src="https://github-readme-stats.vercel.app/api?username=kobirul5&show_icons=true&theme=radical" alt="GitHub Stats" />
   <p>
