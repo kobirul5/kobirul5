@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">About Me</h3>
+<h1 align="center">About Me</h1>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="Center">I code with</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
- <h2>📊 my Stats</h2>
+ <h1>📊 My Stats</h1>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobirul5&theme=radical" alt="GitHub Contributions" />
   <img src="https://github-readme-stats.vercel.app/api?username=kobirul5&show_icons=true&theme=radical" alt="GitHub Stats" />
