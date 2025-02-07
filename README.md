@@ -8,25 +8,20 @@
 
 <h2 align="left">🌟 MERN Stack Web Developer</h2>
 
-## Social Media Links
+<h3 align="left">Social Meadia</h3>
 
-<ul>
-    <li>
-        <a href="https://www.linkedin.com/in/kobirul-islam/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" style="width: 20px; height: 20px;"> LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="https://www.facebook.com/kobirul0k/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 20px; height: 20px;"> Facebook
-        </a>
-    </li>
-    <li>
-        <a href="https://kobirul-islam-9e20b.web.app/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/LinkedIn_Logo_2013.svg" alt="Portfolio" style="width: 20px; height: 20px;"> Portfolio
-        </a>
-    </li>
-</ul>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kobirul-islam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/kobirul0k/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 
 ###
 
