@@ -8,6 +8,26 @@
 
 <h2 align="left">🌟 MERN Stack Web Developer</h2>
 
+## Social Media Links
+
+<ul>
+    <li>
+        <a href="https://www.linkedin.com/in/kobirul-islam/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" style="width: 20px; height: 20px;"> LinkedIn
+        </a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/kobirul0k/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 20px; height: 20px;"> Facebook
+        </a>
+    </li>
+    <li>
+        <a href="https://kobirul-islam-9e20b.web.app/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/LinkedIn_Logo_2013.svg" alt="Portfolio" style="width: 20px; height: 20px;"> Portfolio
+        </a>
+    </li>
+</ul>
+
 ###
 
 <h1 align="center">About Me</h1>
