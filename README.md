@@ -11,7 +11,6 @@
 <h1 align="center">About Me</h1>
 
 ###
-
 <p>
   I specialize in <strong>React.js</strong> and front-end development, creating dynamic and user-friendly web applications using modern technologies like <strong>React, Tailwind CSS, and Firebase authentication</strong>.
 </p>
