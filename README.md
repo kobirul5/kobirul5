@@ -14,6 +14,8 @@
   I specialize in <strong>React.js</strong> and front-end development, creating dynamic and user-friendly web applications using modern technologies like <strong>React, Tailwind CSS, and Firebase authentication</strong>.
 </p>
 
+
+
 <h2>🔥 What I Do:</h2>
 <ul>
   <li>⚡ <strong>Front-end Development:</strong> Building responsive and interactive UIs with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.</li>
