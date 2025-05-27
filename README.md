@@ -26,7 +26,7 @@
 
 <h2>🌱 Currently Exploring:</h2>
 <ul>
-  <li>Exploring <strong>NEXT.js</strong> </li>
+  <li>Exploring <strong>NEXT.js, TypeScript</strong> </li>
   <li>Advanced <strong>backend development</strong> to strengthen my full-stack skills.</li>
   <li>Performance optimization and improved database management.</li>
 </ul>
