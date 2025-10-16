@@ -19,7 +19,7 @@
 <h2>🔥 What I Do:</h2>
 <ul>
   <li>⚡ <strong>Front-end Development:</strong> Building responsive and interactive UIs with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.</li>
-  <li>🛠️ <strong>Back-end (Learning & Improving):</strong> Working with <strong>Node.js, Express, and MongoDB</strong> to develop scalable applications.</li>
+  <li>🛠️ <strong>Back-end (Learning & Improving):</strong> Working with <strong>Node.js, Express, and MongoDB, Prisma</strong> to develop scalable applications.</li>
   <li>🔒 <strong>Authentication & Security:</strong> Implementing <strong>JWT authentication</strong> and Firebase authentication for secure user access.</li>
   <li>📡 <strong>API & Data Management:</strong> Managing data efficiently with <strong>TanStack Query</strong> and MongoDB.</li>
 </ul>
