@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/QFjpH3v9/5592918.jpg" alt="Profile Banner" />
+  <!-- <img height="400" src="https://i.ibb.co.com/QFjpH3v9/5592918.jpg" alt="Profile Banner" /> -->
 </div>
 
 <h1 align="center">👋 Hi, I'm <strong>Md. Kobirul Islam</strong></h1>
@@ -12,7 +12,7 @@
 
 <p align="center">
   I'm a dedicated <strong>MERN Stack Developer</strong> with a passion for building performant, user-friendly, and visually appealing web applications.  
-  I specialize in crafting clean, scalable solutions using modern technologies such as <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Firebase Authentication</strong>.  
+  I specialize in crafting clean, scalable solutions using modern technologies such as <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Firebase Authentication</strong>.  
   I’m continuously expanding my skills in backend development with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Prisma ORM</strong>.
 </p>
 
@@ -113,16 +113,16 @@
 
 | Category | Technologies |
 |-----------|---------------|
-| **Frontend** | React.js, Next.js, Tailwind CSS, shadcn/ui, TanStack Query |
-| **Backend** | Node.js, Express.js |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query |
+| **Backend** | Node.js, Express.js, TypeScript |
 | **Database** | MongoDB, Prisma ORM, Mongoose |
 | **Authentication** | JWT, Firebase Authentication |
 | **Tools & Platforms** | Git, GitHub, Postman, Firebase, Vercel |
-| **Currently Learning** | TypeScript, Backend Optimization, Scalable Architecture |
+| **Currently Learning** | Backend Optimization, Scalable Architecture |
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- <h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|------------|------|
@@ -130,7 +130,7 @@
 | **Sitter Service System** | Role-based sitter management system with FCM notifications and Prisma ORM. | Express, Prisma, Firebase, JWT | 🔗 Coming Soon |
 | **Real-Time Chat System** | One-to-one chat with WebSocket and JWT authentication. | Node.js, WebSocket, Prisma | 🔗 Coming Soon |
 
----
+--- -->
 
 <h3 align="center">💬 “Code. Debug. Learn. Repeat.”</h3>
 <h4 align="center">– Md. Kobirul Islam</h4>
