@@ -21,7 +21,7 @@
 <h2>💡 What I Do</h2>
 
 <ul>
-  <li>⚡ <strong>Frontend Development:</strong> Designing responsive, dynamic, and accessible user interfaces using <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and <strong>shadcn/ui</strong>.</li>
+  <li>⚡ <strong>Frontend Development:</strong> Designing responsive, dynamic, and accessible user interfaces using <strong>React.js</strong>,<strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>shadcn/ui</strong>.</li>
   <li>🛠️ <strong>Backend Development:</strong> Building reliable and scalable REST APIs with <strong>Node.js</strong>, <strong>Express.js</strong>, and databases like <strong>MongoDB</strong> using <strong>Prisma</strong> and <strong>Mongoose</strong>.</li>
   <li>🔐 <strong>Authentication & Authorization:</strong> Implementing secure authentication with <strong>JWT</strong> and <strong>Firebase</strong>.</li>
   <li>📡 <strong>Data Management:</strong> Streamlining data flow using <strong>TanStack Query</strong> and optimized backend queries with <strong>Prisma ORM</strong>.</li>
@@ -33,7 +33,7 @@
 <h2>🚀 Currently Exploring</h2>
 
 <ul>
-  <li>⚙️ Full-stack development with <strong>Next.js</strong> and <strong>TypeScript</strong>.</li>
+  <li>⚙️ Full-stack development with <strong>Next.js</strong>
   <li>🎨 Building beautiful, reusable UI components with <strong>shadcn/ui</strong>.</li>
   <li>🧠 Improving API design patterns, backend scalability, and database optimization.</li>
 </ul>
@@ -52,6 +52,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
@@ -70,6 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  
 </div>
 
 ---
@@ -96,7 +98,7 @@
 </div>
 
 ---
-
+<!--
 <h2 align="center">🏆 Achievements & Activity</h2>
 
 <div align="center">
@@ -108,6 +110,7 @@
 </div>
 
 ---
+--- -->
 
 <h2 align="center">📚 Technical Summary</h2>
 
