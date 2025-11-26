@@ -67,7 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongoose" height="40" alt="Mongoose" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
