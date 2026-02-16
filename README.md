@@ -43,7 +43,7 @@
 <p align="center">
 ✨ <strong>Active Since:</strong> 2024 <br>
 🎯 <strong>Goal:</strong> To become a highly skilled full-stack developer capable of delivering impactful digital solutions. <br>
-💬 <strong>Fun Fact:</strong> My code always works... until I run it. 😅
+💬 <strong>Fun Fact:</strong> My code always works... until I run it. 😅    
 </p>
 
 ---
