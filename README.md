@@ -33,9 +33,7 @@
 <h2>🚀 Currently Exploring</h2>
 
 <ul>
-  <li>⚙️ Full-stack development with <strong>Next.js</strong>
-  <li>🎨 Building beautiful, reusable UI components with <strong>shadcn/ui</strong>.</li>
-  <li>🧠 Improving API design patterns, backend scalability, and database optimization.</li>
+  <li>🐳 Containerization & deployment using <strong>Docker</strong></li>
 </ul>
 
 ---
@@ -71,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   
 </div>
 
