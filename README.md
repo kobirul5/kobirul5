@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Md. Kobirul Islam</strong></h1>
 
-<h2 align="center">🌟 MERN Stack Web Developer | Frontend Specialist | Backend Explorer</h2>
+<h2 align="center">Backend-Focused MERN Stack Developer | Building Scalable Web Applications</h2>
 
 ---
 
