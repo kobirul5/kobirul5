@@ -7,7 +7,7 @@
 <h2 align="center">Backend-Focused MERN Stack Developer | Building Scalable Web Applications</h2>
 
 ---
-
+ 
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
