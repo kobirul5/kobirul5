@@ -15,7 +15,7 @@
   I specialize in crafting clean, scalable solutions using modern technologies such as <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Firebase Authentication</strong>.  
   I’m continuously expanding my skills in backend development with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Prisma ORM</strong>.
 </p>
-
+ 
 ---
 <h2>💡 What I Do</h2>
 
